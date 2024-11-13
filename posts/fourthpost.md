@@ -1,6 +1,7 @@
 ---
-title: This is my fourth post.
-description: This is a post on My Blog about touchpoints and circling wagons. This is a post on My Blog about touchpoints and circling wagons. This is a post on My Blog about touchpoints and circling wagons.
+title: Water 
+description: DIY methods for water capture and filtering. 
+image: /img/pail.svg
 date: 2018-09-30
 tags: second-tag
 layout: layouts/post.njk
