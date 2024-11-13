@@ -1,9 +1,9 @@
 {
   "title": "Waterbear Field School",
-  "url": "https://example.com/",
-  "description": "Yoho, mateys! I've been sailing the seven seas, and this is my story!",
+  "url": "https://waterbearfieldschool.org/",
+  "description": "Skill sharing and community building.",
   "feed": {
-    "subtitle": "Yoho, mateys! I've been sailing the seven seas, and this is my story!",
+    "subtitle": "Skill sharing and community building.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
