@@ -13,7 +13,9 @@
   </head>
   <body>
     <header>
-      <h1 class="title"><a href="{{ '/' | url }}"><img id="header-compass" alt="" src="/img/compass-white.svg"/>{{ metadata.title }}</a></h1>
+   <!--   <h1 class="title"><a href="{{ '/' | url }}"><img id="header-compass" alt="" src="/img/compass-white.svg"/>{{ metadata.title }}</a></h1> -->
+
+<h1 class="title"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
 
       {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
       <ul class="nav">
