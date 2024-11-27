@@ -8,4 +8,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-[Photo album](https://photos.app.goo.gl/3pAmomSRcNiE9FSV9)
+![(/img/industry_1_small.jpg)
+
+More photos [here](https://photos.app.goo.gl/3pAmomSRcNiE9FSV9)!
