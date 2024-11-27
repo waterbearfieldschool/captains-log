@@ -1,6 +1,6 @@
 ---
 title: Magic Garden Playground Redesign 
-description: Working with Magic Garden on a re-design of a playground.
+description: Working with Magic Garden to redesign one of their playgrounds.
 image: /img/magic_small.jpg
 date: 2024-11-26
 tags:
