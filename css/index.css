@@ -33,7 +33,8 @@
 body {
   background-color: var(--body-bg);
   background-image: url('/img/black-noise.png');
-  font-family: 'Avara', sans-serif;
+  //font-family: 'Avara', sans-serif;
+  font:16px/1.5 sans-serif;
   color: var(--title-color);
 }
 
@@ -110,7 +111,7 @@ img {
 /*Ribbon*/
 .post::before{
   content: "";
-  background-image: url(/img/ribbon.svg);
+  //background-image: url(/img/ribbon.svg);
   position: absolute;
   left: 3rem;
   top: -10px;
@@ -186,7 +187,7 @@ main.content {
 .nav-item-active:before {
   opacity: 0.7;
   content: '';
-  background-image: url('/img/anchor-white.svg');
+  //background-image: url('/img/anchor-white.svg');
   height: 30px;
   width: 20px;
   display: block;
@@ -199,7 +200,7 @@ main.content {
 .nav-item:hover:before {
   opacity: 0.5;
   content: '';
-  background-image: url('/img/anchor-white.svg');
+  //background-image: url('/img/anchor-white.svg');
   height: 30px;
   width: 20px;
   display: block;
@@ -220,7 +221,7 @@ main.content {
 .direct-link:before {
   visibility: visible;
   content: '';
-  background-image: url('/img/anchor.svg');
+  //background-image: url('/img/anchor.svg');
   height: 30px;
   width: 20px;
   display: inline-block;
@@ -290,6 +291,27 @@ a:hover > .arrow.left {
 
 a:hover > .arrow.right {
   transform: translate(5px);
+}
+
+table {
+    #background-color: F1F1F1;
+    #background-color: HoneyDew;
+    margin: 30 auto 30 auto;
+    padding: 10px;
+    #width: 1100px;
+    text-align: left;
+    border: 1px solid black;
+    #border: 1px solid blue;
+    max-width:100%;
+    
+}
+
+td { 
+    padding: 10px;
+    #font-style: italic;
+    #font-size:14;
+    text-align: left;
+    font-size:15;
 }
 
 /* Header title*/
