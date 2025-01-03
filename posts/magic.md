@@ -65,9 +65,9 @@ Materials pricing:
 
 -->
 
-Estimates for materials cost if purchased at e.g. Home Depot is calculated in a Google Sheet [here](https://docs.google.com/spreadsheets/d/1p5d0SLIdF_imkuD9RXHpqbvSMv4NHEZS-tepf4vk4Fs/edit?usp=sharing) -- current rough estimate is about **$185**.
 
-Meanwhile, we're looking to build the fence using found & recycled lumber as much as possible.
+
+We're looking to build the fence using found & recycled lumber as much as possible.
 
 
 | ![](/img/mg/reclaimed_pallet.jpg) |
