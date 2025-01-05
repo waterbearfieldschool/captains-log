@@ -1,5 +1,5 @@
 ---
-title: Radio Experiments 
+title: Radio Experiments with EcoGather
 description: Exploring alternative communications systems, including ham radio.
 image: /img/radio/radio.svg
 date: Last Modified 
