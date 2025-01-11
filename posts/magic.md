@@ -33,11 +33,15 @@ Compare -- a fence from Home depot, get 2-panels for $90, would likely need 2 of
 
 ## Fence Design #1
 
-The first task is to make a 13 foot fence around the 'construction zone'.  The two core design ideas we're working with are:
-- making a fence out of natural and found materials;
-- making a fence that is easy to disassemble and transport
+The first task is to make a 13 foot fence around the 'construction zone'. 
 
-The concept we're working on right now is to build a fence out of modular 'frames' built with regular lumber, which then have 'pickets' or 'fences' that consist of found sticks and branches. Ideally, students would find and place these sticks into the frame, and the sticks would be fastened / lashed to the frame for durability. 
+Originally, we'd discussed the idea of fence design that would utilize found wood, with a 'Sturbridge Village' construction, perhaps something like this:
+
+![](/img/mg/no_dig.jpg)
+
+However, we eventually decided that it would be more important to have a fence that was easy to disassemble and transport.
+
+The concept we're working on instead is to build a fence out of modular 'frames' built with regular lumber, which then have 'pickets' or 'fences' that consist of found sticks and branches. Ideally, students would find and place these sticks into the frame, and the sticks would be fastened / lashed to the frame for durability. 
 
 | ![](/img/mg/frame_design.png) |
 |:--:|
@@ -65,14 +69,53 @@ Materials pricing:
 
 -->
 
-
-
 We're looking to build the fence using found & recycled lumber as much as possible.
 
 
 | ![](/img/mg/reclaimed_pallet.jpg) |
 |:--:|
 | Experimenting with salvaged pieces from a recycled pallet.  Length was too short (only 10'); might try to patch pieces together to reach desired 13' fence length. |
+
+## Fence Design #2
+
+Fri 10 Jan 2025 06:54:53 PM EST
+
+After reviewing the regulations around playground construction, we realized that we needed to be quite strict about maintaining a maximum distance between fence 'pickets' of 3.5".  
+
+To do this, we can still retain the 'frame' of our overall fence design:
+
+![](/img/mg/fence_overall_breakdown.png)
+
+But we need to rethink how we'll be designing the 'pickets'.  
+
+### Picket Option A: Wooden Slats
+
+Our first idea is to simply use 1"x3" pieces of lumber as pickets.  The individual pickets could easily be painted or customized by students.
+
+![](/img/mg/picket_overall.png)
+
+This option is relatively easy to build.  The only downside might be the cost of the lumber for the pickets.  
+
+### Picket Option B:  Wire Mesh
+
+Another simple, and less expensive option would be to use wire mesh instead of pickets.  This is a common design in various gardens.
+
+![](/img/mg/wire_fence_idea.jpg)
+
+### Picket Option C:  Natural Pickets
+
+We could still retain a more 'natural' look, as in the original concept, by using found sticks for the pickets.  This is more laborious to build (finding sticks of the appropriate size and shape will also take some time), but less expesnive. 
+
+![](/img/mg/romanian.jpg)
+
+![](/img/mg/simple.jpg)
+
+![](/img/mg/sturdy_waddle.jpg)
+
+
+
+
+
 
 
 

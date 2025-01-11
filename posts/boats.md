@@ -1,7 +1,7 @@
 ---
 title: Single-sheet boat designs
 description: From small models to usable one-person crafts -- working with the Charles River Museum of Industry on DIY boat designs.
-image: /img/magic_small.jpg
+image: /img/boats/micromouse_cleaned_2.png
 date: Last Modified 
 tags:
   - museum

@@ -20,3 +20,13 @@ The current DIY loom design is a Dutch design that doesn't quite fit the planned
 
 More photos [here](https://photos.app.goo.gl/cGC2JCqqXthxd7sJ6)!
 
+Wed 08 Jan 2025 05:45:17 PM EST
+
+[How to make a homemade loom](https://www.simplyhandmadestudios.com/blog/the-loom-how-to-make-a-weaving-loom)
+
+[Basic weaving for beginners](https://www.simplyhandmadestudios.com/blog/learn-to-weave-3-basic-weaving-patterns-for-beginners)
+
+[Flying shuttle](https://en.wikipedia.org/wiki/Flying_shuttle)
+
+
+
