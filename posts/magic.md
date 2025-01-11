@@ -96,6 +96,11 @@ Our first idea is to simply use 1"x3" pieces of lumber as pickets.  The individu
 
 This option is relatively easy to build.  The only downside might be the cost of the lumber for the pickets.  
 
+In order to get a feel for this option, we've begun with a few 1"x3"x8" boards ...
+
+![](/img/mg/mg_picket_proto.jpg)
+
+
 ### Picket Option B:  Wire Mesh
 
 Another simple, and less expensive option would be to use wire mesh instead of pickets.  This is a common design in various gardens.
