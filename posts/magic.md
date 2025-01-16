@@ -117,6 +117,21 @@ We could still retain a more 'natural' look, as in the original concept, by usin
 
 ![](/img/mg/sturdy_waddle.jpg)
 
+## Building a Mesh Fence
+
+Mon 13 Jan 2025 06:38:26 PM EST
+
+[Home Depot guide to building a mesh fence](https://www.homedepot.com/c/ah/how-to-build-a-wire-fence/9ba683603be9fa5395fab90589a08d9)
+
+[Hogwire mesh design](https://www.stuffsethmakes.com/redwood-fence-with-hogwire-mesh/)
+
+- with video [here](https://youtu.be/AJFf6boY8LE)
+
+[Welded-wire garden fence](https://rogueengineer.com/diy-welded-wire-garden-fence/)
+
+[DIY Garden fence gate](https://buckhorncliffs.com/diy-garden-fence-gate/)
+
+[Removable raised garden bed fence](https://gardens.theownerbuildernetwork.co/2019/04/13/how-to-make-a-removable-raised-garden-bed-fence/)
 
 
 
