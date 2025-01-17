@@ -45,10 +45,16 @@ h1.title {
   font-size: 3rem;
 }
 
+h1.
 /*Reset link styles*/
 h1.title a {
   color: var(--title-color);
   text-decoration: none;
+}
+
+h1.postTitle {
+  font-size: 40px;
+
 }
 
 /*

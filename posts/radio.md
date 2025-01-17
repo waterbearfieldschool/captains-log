@@ -8,44 +8,31 @@ tags:
 layout: layouts/post.njk
 ---
 
-# Upcoming Comms Workshop Series
+# Winter 2025 Seminar Topics
 
-We might choose various topics that we collectively research.  Some of us can offer brief presentations to the group on a given topic; we can also ask folks with relevant knowledge to present to us.
+We're planning a series of short, informal presentations and discussions around topics of interest to the group. Below is a rough, to-be-refined categorization of technologies that seem to be of interest:
 
-Some possible topics:
-    - GMRS, and GMRS repeaters
-	- scanners
-	- meshtastic
-	- NVIS
-	- asychronous
-	- Bulletin Board System / Mail / Winlink
-	- Meshtastic BBS
-	- js8call / keyboard / chat comms
-	- varac
-	- LoRaWAN / LPWAN
+## Listening-only (short and long range, no license required)
 
+In general, it is often useful in a grid-down scenario to be able to listen into ambient broadcasts (news, fire, police, emergency services).  There are various inexpensive approaches to this, including:
+- **Scanners** -- small radios that can receive local police, fire, and other broadcasts
+- **Software-defined radios** -- inexpensive dongles that, when connected to a laptop, can provide an intuitive graphical way of exploring received radio signals
+- **Short-wave radios** -- radios optimized for receiving broadcasts from around the globe
 
-# Meeting Agenda for Monday, Jan 6th 2025
+## Short-range transceivers (several miles), no ham license
 
-## Round of introductions ...
+These are relatively inexpensive radio technologies that allow for off-grid communication within a range of a few miles (or tens of miles, with repeater nodes).   This would be useful for folks on a homestead, or perhpas within a relatively small town, to stay in touch.
 
-- Who are you? :)
-- How did you find your way to this group? :)
-- What are your interests and goals in radio / alternative communications systems?
-- What would you like this group to be for you? 
+- **Meshtastic** (enables phone to do off-grid, mesh-networked texting via an inexpensive add-on module; unlicensed)
+- **GMRS** (audio communication; a $35, no-exam license is required)
+- **Walkie Talkies** (audio communication; no license required)
 
-## Miscellaneous topics we might discuss
+## Medium-range transceivers (100s of miles), ham license req'd
 
-- Ham licensing -- what it might be useful for, what is required
-- Do folks want to study together for a next ham exam? 
-- Based on where folks are located, might we try to regularly communicate long-distance via ham radios?  What hardware / licenses would be required?
-- Might we organize a regular monthly 'check-in' to get in habit of maintaining contact via alternative channel ... could be a fun social event ... and good preparation for a 'grid-down' event
-- Local backup comms via walkie-talkies ... what range? What are the options?  APRS as a wide-range local digital logistics comm option (requires ham license)
-- Meshtastic -- no license required for radio, low-costs, local (1 km to 5 km) range (but with internet hops), leverages phone for interface -- easy place to begin experimenting
-- TD-H3 from Tidradio as a great starter radio 
-- Software-defined radio (SDR) dongles as a great way to start receiving radio signals, learning
-- [Broadcastify](https://www.broadcastify.com/listen/) as a way to listen to various radio bands online
-- GMRS as nice place to start -- wider range, repeaters available, license is $35 and covers household for 10 years
+For off-grid coordination of logistics (food, water, transport) -- e.g. after or during a storm, flood, or fire -- it seems often to be useful to communicate within a range of a few hundred miles.  A typical approach to this is to a technique ([NVIS](https://en.wikipedia.org/wiki/Near_vertical_incidence_skywave)) that bounces radio signals off the atmosphere nearly directly above the broadcasting site, so that signals land within the desired range.  The relevant bands (typically, HF), require a ham license (typically, the higher-level, 'General' license).   Example technologies include:
+
+- **js8call; varac** -- keyboard-to-keyboard live chat, with store-and-forward capability
+- **winlink** -- ham radio-based email program
 
 
 
