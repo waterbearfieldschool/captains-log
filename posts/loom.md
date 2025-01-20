@@ -1,8 +1,8 @@
 ---
 title: DIY Looms
 description: Talking about a 'Fiber to Fabric' class at Artisan's Asylum.
-image: /img/loom_table_s.jpg
-date: 2024-11-26
+image: /img/diy_loom.png
+date: Last Modified 
 tags:
   - looms
 layout: layouts/post.njk
@@ -20,7 +20,7 @@ The current DIY loom design is a Dutch design that doesn't quite fit the planned
 
 More photos [here](https://photos.app.goo.gl/cGC2JCqqXthxd7sJ6)!
 
-Wed 08 Jan 2025 05:45:17 PM EST
+Wed 08 Jan 2025 05:45:17 PM EST 
 
 [How to make a homemade loom](https://www.simplyhandmadestudios.com/blog/the-loom-how-to-make-a-weaving-loom)
 

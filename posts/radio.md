@@ -1,7 +1,7 @@
 ---
 title: Radio Experiments with EcoGather
 description: Exploring alternative communications systems, including ham radio.
-image: /img/radio/radio.svg
+image: /img/radio/lindsey_mesh.jpeg
 date: Last Modified 
 tags:
   - museum

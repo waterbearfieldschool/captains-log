@@ -134,6 +134,29 @@ Mon 13 Jan 2025 06:38:26 PM EST
 [Removable raised garden bed fence](https://gardens.theownerbuildernetwork.co/2019/04/13/how-to-make-a-removable-raised-garden-bed-fence/)
 
 
+## Fence Design #3
+
+Sat 18 Jan 2025 09:03:48 PM EST
+
+
+[Etsy plan for welded wire fence](https://www.etsy.com/listing/1293622707/pdf-download-diy-fence-and-gate-plans?gpla=1&gao=1&&utm_source=google&utm_medium=cpc&utm_campaign=shopping_us_ps-a-craft_supplies_and_tools&utm_custom1=_k_Cj0KCQiAv628BhC2ARIsAIJIiK9GPbJnKLjemWYZSbk_uO7qqrDZcp1kqhEDzLXHsod4ZzvrEzXKaekaAky7EALw_wcB_k_&utm_content=go_21500568222_167985818119_716809480255_aud-2007167693509:pla-295462056867_c__1293622707_539666034&utm_custom2=21500568222&gad_source=1&gclid=Cj0KCQiAv628BhC2ARIsAIJIiK9GPbJnKLjemWYZSbk_uO7qqrDZcp1kqhEDzLXHsod4ZzvrEzXKaekaAky7EALw_wcB)
+
+![](/img/mg/tropical_fence.png)
+
+| ![](/img/mg/etsy_detail.png) |
+|:--:|
+| Interesting example of inner frame construction from above Etsy design. |
+
+[How to build an enclosed garden](https://www.woodshopdiaries.com/diy-enclosed-walk-in-garden/)
+
+Recommends 3/4" staples.
+
+Recall -- we need fence openings that are less than 3.5".  1" x 2" seemed like an option.
+
+[This Old House -- install a critter-proof garden fence](https://www.thisoldhouse.com/pest-control/21016450/install-a-critter-proof-garden-fence)
+
+
+
 
 
 
