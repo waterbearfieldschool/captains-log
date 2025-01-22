@@ -165,6 +165,12 @@ Making 2x2s from 2x4s [here](https://www.youtube.com/watch?v=Oyi8O28Rg-M)
 
 Building a Paulk Smart Bench [here](https://blog.ktz.me/building-a-modified-paulk-smart-workbench/)
 
+## Prototyping
+
+![](/img/mg/proto_flat.png)
+
+![](/img/mg/proto_mesh.png)
+
 ## Fence Design #3
 
 Considerations:
@@ -183,8 +189,13 @@ Considerations:
 
 ![](/img/mg/panel_mesh_back.png)
 
+Wed 22 Jan 2025 02:07:24 PM EST
 
+Home Depot fence support [here](https://www.homedepot.com/pep/Everbilt-1-1-4-in-x-3-4-in-x-3-ft-14-Gauge-Green-Steel-U-Fence-Post-with-Anchor-Plate-901153EB/205960881?g_store=&source=shoppingads&locale=en-US&pla&mtc=SHOPPING-BF-LNC-GGL-D22-Multi-NA-NA-NA-PLALIA-NA-NA-NA-NA-NBR-NA-NA-NA-LINC_All&cm_mmc=SHOPPING-BF-LNC-GGL-D22-Multi-NA-NA-NA-PLALIA-NA-NA-NA-NA-NBR-NA-NA-NA-LINC_All-21005763990-156644039737-1458551821861&gad_source=1&gclid=Cj0KCQiAy8K8BhCZARIsAKJ8sfSdRVUAbeFBIuPv_PIy6jKOkqu9pgSSwJRArpAAS1jsI1-PNz2EcvoaAh_2EALw_wcB&gclsrc=aw.ds)
 
+Lowe's 2"x2"x8' Furring strip [here](https://www.lowes.com/pd/2-x-2-x-8-Premium-Furring-Strip/5002632019?store=2384&cm_mmc=shp-_-b-_-prd-_-pro-_-ggl-_-LIA_LUM_000_PRO-_-5002632019-_-local-_-0-_-0&gad_source=1&gclid=Cj0KCQiAy8K8BhCZARIsAKJ8sfTs8ThGTlZFhCc9eD-4_k_I1_jmG_-vvy_CEzS0TZ2ltfWJv3UekMgaAk70EALw_wcB&gclsrc=aw.ds)
+
+![](/img/mg/banjo.png)
 
 
 
