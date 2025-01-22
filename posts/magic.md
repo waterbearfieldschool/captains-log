@@ -117,7 +117,9 @@ We could still retain a more 'natural' look, as in the original concept, by usin
 
 ![](/img/mg/sturdy_waddle.jpg)
 
-## Building a Mesh Fence
+## Mesh Fence research 
+
+Picket option "B" above was selected;  now researching some example mesh fence designs. 
 
 Mon 13 Jan 2025 06:38:26 PM EST
 
@@ -132,9 +134,6 @@ Mon 13 Jan 2025 06:38:26 PM EST
 [DIY Garden fence gate](https://buckhorncliffs.com/diy-garden-fence-gate/)
 
 [Removable raised garden bed fence](https://gardens.theownerbuildernetwork.co/2019/04/13/how-to-make-a-removable-raised-garden-bed-fence/)
-
-
-## Fence Design #3
 
 Sat 18 Jan 2025 09:03:48 PM EST
 
@@ -156,8 +155,33 @@ Recall -- we need fence openings that are less than 3.5".  1" x 2" seemed like a
 [This Old House -- install a critter-proof garden fence](https://www.thisoldhouse.com/pest-control/21016450/install-a-critter-proof-garden-fence)
 
 
+[Hogwire mesh design](https://www.stuffsethmakes.com/redwood-fence-with-hogwire-mesh/)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J3KDhN3bAug?si=npYZ-9cjgl8BzlS2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+![](/img/mg/simple_diy.png)
+
+Making 2x2s from 2x4s [here](https://www.youtube.com/watch?v=Oyi8O28Rg-M)
+
+Building a Paulk Smart Bench [here](https://blog.ktz.me/building-a-modified-paulk-smart-workbench/)
+
+## Fence Design #3
+
+Considerations:
+- The outer fence frame needs to be sufficiently rigid 
+- The fence should be made of easy-to-transport panels that disassemble
+- The wire mesh will need to be stapled to the fence, requiring a flat surface
+- The edges of the wire mesh are sharp, and should be protected behind a wooden barrier
+
+### Basic Panel Pattern
+
+![](/img/mg/sketch_panel_front.png)
+
+![](/img/mg/sketch_panel_back.png)
+
+![](/img/mg/panel_mesh_front.png)
+
+![](/img/mg/panel_mesh_back.png)
 
 
 
