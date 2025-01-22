@@ -195,10 +195,11 @@ Home Depot fence support [here](https://www.homedepot.com/pep/Everbilt-1-1-4-in-
 
 Lowe's 2"x2"x8' Furring strip [here](https://www.lowes.com/pd/2-x-2-x-8-Premium-Furring-Strip/5002632019?store=2384&cm_mmc=shp-_-b-_-prd-_-pro-_-ggl-_-LIA_LUM_000_PRO-_-5002632019-_-local-_-0-_-0&gad_source=1&gclid=Cj0KCQiAy8K8BhCZARIsAKJ8sfTs8ThGTlZFhCc9eD-4_k_I1_jmG_-vvy_CEzS0TZ2ltfWJv3UekMgaAk70EALw_wcB&gclsrc=aw.ds)
 
-![](/img/mg/banjo.png)
+![](/img/mg/banjo_color.png)
 
+![](/img/mg/green_stake.png)
 
-
+![](/img/mg/hd_fence_support.png)
 
 
 
