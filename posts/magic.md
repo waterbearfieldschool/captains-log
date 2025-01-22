@@ -209,6 +209,16 @@ Lowe's 2"x2"x8' Furring strip [here](https://www.lowes.com/pd/2-x-2-x-8-Premium-
 
 ![](/img/mg/hidden_post_2.png)
 
+| ![](/img/mg/jan22_panel_front.png) ![](/img/mg/jan22_panel_front_close.png) |
+|:--:|
+| Front of panel |
+
+| ![](/img/mg/jan22_panel_back.png) ![](/img/mg/jan22_panel_back_close.png) |
+|:--:|
+| Back of panel |
+
+
+
 
 
 
