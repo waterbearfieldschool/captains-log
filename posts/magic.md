@@ -217,6 +217,12 @@ Lowe's 2"x2"x8' Furring strip [here](https://www.lowes.com/pd/2-x-2-x-8-Premium-
 |:--:|
 | Back of panel |
 
+## Fence Prototyping
+
+Initial fence panel prototype portrayed in video below, demonstrating design for encapsulating rough mesh edges and fence support posts.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eibalFkdzAs?si=sgygqi0m-Xv9XaTB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 
