@@ -223,6 +223,10 @@ Initial fence panel prototype portrayed in video below, demonstrating design for
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eibalFkdzAs?si=sgygqi0m-Xv9XaTB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Recommended sealant: ![](/img/mg/timber_pro_uv.jpeg)
+
+
+
 
 
 
