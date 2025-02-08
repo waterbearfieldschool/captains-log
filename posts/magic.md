@@ -225,6 +225,42 @@ Initial fence panel prototype portrayed in video below, demonstrating design for
 
 Recommended sealant: ![](/img/mg/timber_pro_uv.jpeg)
 
+Fri 07 Feb 2025 08:41:07 PM EST
+
+# Fence Design #4
+
+## Overview
+
+![](/img/mg/f4_overview.png)
+
+## Panel design
+
+![](/img/mg/f4panel_animate.gif)
+
+![](/img/mg/fence4_panel.png)
+
+![](/img/mg/fence4_panel_back.png)
+
+## Connections
+
+![](/img/mg/corner_connect.png)
+
+![](/img/mg/straight_connect.png)
+
+## Dimensions
+
+### Longer 
+
+![](/img/mg/f4_dim_long_base.png)
+
+![](/img/mg/f4_dim_long_outer.png)
+
+### Shorter
+
+![](/img/mg/f4_dim_short_base.png)
+
+![](/img/mg/f4_dim_short_outer.png)
+
 
 
 
