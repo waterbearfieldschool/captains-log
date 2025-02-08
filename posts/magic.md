@@ -231,7 +231,7 @@ Fri 07 Feb 2025 08:41:07 PM EST
 
 ## Overview
 
-![](/img/mg/f4_overview.png)
+![](/img/mg/f4_overall_gate.png)
 
 ## Panel design
 
@@ -261,8 +261,11 @@ Fri 07 Feb 2025 08:41:07 PM EST
 
 ![](/img/mg/f4_dim_short_outer.png)
 
+### Gate
 
+![](/img/mg/f4_dim_gate_base.png)
 
+![](/img/mg/f4_dim_gate_outer.png)
 
 
 
