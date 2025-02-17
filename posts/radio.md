@@ -40,9 +40,27 @@ For off-grid coordination of logistics (food, water, transport) -- e.g. after or
 - **js8call; varac** -- keyboard-to-keyboard live chat, with store-and-forward capability
 - **winlink** -- ham radio-based email program
 
+Sun 16 Feb 2025 05:53:50 PM EST
+
+# Meshtastic notes
+
+Link to a < $150 meshtastic repeater node [here](https://www.etsy.com/listing/1048791528/all-in-one-waterproof-solar-powered-off?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=meshtastic+repeater&ref=sr_gallery-1-8&content_source=e68961fa5a3916425776b486a8a0ff245709ec82%253A1048791528&organic_search_click=1&logging_key=f91e8779bceeca494505119a19c287f6d8615e38%3A1048791528)
+
+Standalone meshtastic nodes [here](https://www.etsy.com/market/meshtastic_repeater)
+
+Wireless paper [here](https://heltec.org/project/wireless-paper/)
+
+## Device test
+
+![](/img/radio/trio.jpeg)
 
 
+- Lilygo T-Beam (v 1.2) $52 [here](https://www.amazon.com/LILYGO-Meshtastic-Development-CH9102F-Soldered/dp/B0B63FV7FR)
 
+- Heltec V3 $25 [here](https://www.amazon.com/HiLetgo-Display-Development-Bluetooth-Unsoldered/dp/B07WHRS2XG)
 
+- Rak Wireless $35 [here](https://www.amazon.com/RAKwireless-WisBlock-Meshtastic-Starter-RAK19007/dp/B0CHKZJK9C)
+
+Explanatory / demo video [here](https://www.youtube.com/watch?v=2pHxxf_e4e0)
 
 

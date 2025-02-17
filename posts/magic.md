@@ -267,7 +267,111 @@ Fri 07 Feb 2025 08:41:07 PM EST
 
 ![](/img/mg/f4_dim_gate_outer.png)
 
+Sun 16 Feb 2025 01:23:56 PM EST
 
+# MG Fence calcs
+
+idea: use 'spare' parts as 'legs' to support fence
+
+## bases
+
+- have finished four long-panel bases = (approx $240) 
+- material for another base, minus one long board (approx $70) 
+
+- so for the rest of the long bases (2)
+each long base is 6 boards, so need
+2*6 + 1 = **13 boards**
+
+- for the (2) short-panel bases,
+each short base is 4 boards, 
+so need **8 boards**
+
+then the gate base is **2 boards**
+
+[so for all the remaining bases, need
+13 + 8 + 2 = **23 boards** = approx $230
+
+## coverings
+
+then, each long panel covering is 5 boards
+so that's 6*5 = **30 boards**
+
+each short panel covering is 4 boards
+so that's 4*2 = **8 boards**
+
+the gate covering is **4 boards**
+
+so that's **42 boards** = $420 
+
+
+Total estimated wood cost:
+- previous:  $240+$70 = $310
+- todo: $230+$420 = $650
+= $960 total, just for wood
+
+(actually, the boards are $9.25 ea, not $10 ea, so that's $888)
+
+using remainders ...
+
+Structurally, can use likely stitched-together remainders for the side panels, and perhaps for the fence tops.
+
+## remainders from the bases 
+
+each long panel long piece cut leaves 62 cm.  there are 4 long pieces per long panel.  there are 6 long panels.  so that's **24 remainders at 62 cm ea**. 
+
+each vertical piece pair leaves 56 cm.  there are two pairs per long panel, and 6 long panels, so 12 remainders.  there are 2 pairs per short panel, and 2 short panels, so 4 remainders.  so that's **6 remainders at 56 cm ea**. 
+
+that's at least **1824 cm remainder** from the bases alone.
+
+**Note: we have not included remainders from the front paneling or the tops**
+
+## needed material for the side panels
+
+each side panel is 101 cm.  there are 2 side panels per long panel, and 6 long panels, so that's **12 side panels at 101 cm ea**.  There are 2 side panels per short panel, and two short panels, so that's **4 side panels at 101 cm ea**.
+
+the gate has **2 side panels at 101 cm ea**.
+
+so the side panels are **1818 cm** total.  
+
+## cost reduction if using remainders for side panels
+
+So, theoretically, we can cover the side paneling (1818 cm) with the remainders (1824 cm). 
+
+Redoing the covering calculation without side panels:
+
+then, each long panel covering is 4 boards
+so that's 6*4 = **24 boards**
+
+each short panel covering is 3 boards
+so that's 3*2 = **6 boards**
+
+the gate covering is **2 boards**
+
+so that's **32 boards** = $320, $100 savings
+
+so that's $860 just for wood.
+
+## joinery methods
+
+[https://www.woodmagazine.com/woodworking-tips/techniques/joinery/dowel](https://www.woodmagazine.com/woodworking-tips/techniques/joinery/dowel)
+
+[https://www.thesprucecrafts.com/wood-joinery-types-3536631](https://www.thesprucecrafts.com/wood-joinery-types-3536631)
+
+[https://www.woodmagazine.com/woodworking-tips/techniques/joinery/end-to-end](https://www.woodmagazine.com/woodworking-tips/techniques/joinery/end-to-end)
+
+[https://www.reddit.com/r/BeginnerWoodWorking/comments/16cmqzn/dowel_jig_advice_or_junk/?rdt=51976](https://www.reddit.com/r/BeginnerWoodWorking/comments/16cmqzn/dowel_jig_advice_or_junk/?rdt=51976)
+
+Tips on using dowel jigs [https://www.youtube.com/watch?v=zTj_hiEVfvw&t=714s](https://www.youtube.com/watch?v=zTj_hiEVfvw&t=714s)
+
+Dowel joinery with a cheap jig [https://www.youtube.com/watch?v=wgxwojt3vAo](https://www.youtube.com/watch?v=wgxwojt3vAo)
+
+Dowel alignment without a jig [https://www.youtube.com/watch?v=EffXrNhJtKI](https://www.youtube.com/watch?v=EffXrNhJtKI)
+
+Overview of woodworker joinery methods, including clamps [https://www.youtube.com/watch?v=j-jVst7CEMw](https://www.youtube.com/watch?v=j-jVst7CEMw)
+
+![](/img/mg/joint_choice.webp)
+
+![](/img/mg/wood_joinery.webp)
 
 
 
