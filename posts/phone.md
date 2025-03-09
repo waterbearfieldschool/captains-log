@@ -18,6 +18,8 @@ layout: layouts/post.njk
 
 - OLED display, $3 ea (by 5 at a time) [https://www.amazon.com/Hosyond-Display-Self-Luminous-Compatible-Raspberry/dp/B09T6SJBV5](https://www.amazon.com/Hosyond-Display-Self-Luminous-Compatible-Raspberry/dp/B09T6SJBV5)
 
+(note: for meshtastic RAK modules, proper SSD1306 pinout is: ssd1306 -- VCC GND SCL SDA)
+
 ## Cellular Modem options
 
 (Generally looking at the SIM7600 modules)
@@ -34,13 +36,25 @@ layout: layouts/post.njk
 
 [TBD -- need to figure out whether 'boost' approach works]
 
-
-
 ## Microcontroller
 
 - Itsy Bitsy M4, $15 [https://www.adafruit.com/product/3800](https://www.adafruit.com/product/3800)
 
 - Itsy Bitys nRF52840, $20 [https://www.adafruit.com/product/4481](https://www.adafruit.com/product/4481)
+
+
+Sat 08 Mar 2025 08:39:40 PM EST
+
+# Initial run -- text-only
+
+- Module -- [sim7600 text module for $73 on Amazon](https://www.amazon.com/SIM7600G-H-4G-Communication-Module-Positioning-Standard/dp/B0BTP93H8H/ref=asc_df_B0BTP93H8H)
+- Screen -- [ssd1306 oled for $8 on Amazon](https://www.amazon.com/DIYmall-Serial-128x64-Display-Arduino/dp/B00O2KDQBE?th=1)
+- Keyboard -- [m5 keyboard for $8 on Amazon](https://www.digikey.com/en/products/detail/m5stack-technology-co-ltd/U035-B/16679766)
+- Microcontroller -- [nrf express itsy bitsy for $20 on Amazon](https://www.digikey.com/en/products/detail/adafruit-industries-llc/4481/11497502)
+- Boost (already purchased)
+- Antenna (already purchased)
+- PCB (to design)
+- Case (to design)
 
 
 

@@ -63,4 +63,39 @@ Wireless paper [here](https://heltec.org/project/wireless-paper/)
 
 Explanatory / demo video [here](https://www.youtube.com/watch?v=2pHxxf_e4e0)
 
+Rak wisblock starter kit info [here](https://www.reddit.com/r/meshtastic/comments/1am0s30/noob_question_what_kind_of_battery_should_i_get/)
+
+What is the best device for meshtastic? [here](https://adrelien.com/blog/what-is-the-best-device-for-meshtastic/)
+
+Mon 17 Feb 2025 06:45:12 PM EST
+
+
+## Setting up Rak wisblock starter kit
+
+[https://forum.rakwireless.com/t/physical-placement-of-oled-screen-on-wisblock-19007/11161](https://forum.rakwireless.com/t/physical-placement-of-oled-screen-on-wisblock-19007/11161)
+
+RAK Wisblock mini datasheet [here](https://docs.rakwireless.com/product-categories/wisblock/rak19003/datasheet/)
+
+RAK 4631 datasheet [here](https://docs.rakwireless.com/product-categories/wisblock/rak4631/sidewalk/)
+
+## meshtastic on itsy bitsy nrf
+
+[https://gitlab.com/edgecollective/meshtastic-firmware-itsybitsy-nrf52-oled](https://gitlab.com/edgecollective/meshtastic-firmware-itsybitsy-nrf52-oled)
+
+still possible to diy a device -- bluetooth module for $13, radio module for $15, screen for $3, pcb + spare parts for $5 -- approx $36 in parts
+
+# phone repo
+
+This is where the phone code lives [https://gitlab.com/edgecollective/neighborhood-mesh](https://gitlab.com/edgecollective/neighborhood-mesh)
+
+Wed 19 Feb 2025 08:14:21 PM EST
+
+Testing power req's ....
+
+Page for audio + text module is [here](https://www.dfrobot.com/product-2801.html)
+
+And wiki [here](https://wiki.dfrobot.com/SKU_TEL0162_SIM7600G_H_CAT4_4G_Communication_Module)
+
+
+
 
