@@ -48,10 +48,11 @@ Sat 08 Mar 2025 08:39:40 PM EST
 # Initial run -- text-only
 
 - Module -- [sim7600 text module for $73 on Amazon](https://www.amazon.com/SIM7600G-H-4G-Communication-Module-Positioning-Standard/dp/B0BTP93H8H/ref=asc_df_B0BTP93H8H)
-- Screen -- [ssd1306 oled for $8 on Amazon](https://www.amazon.com/DIYmall-Serial-128x64-Display-Arduino/dp/B00O2KDQBE?th=1)
+- Small Screen -- [ssd1306 oled for $8 on Amazon](https://www.amazon.com/DIYmall-Serial-128x64-Display-Arduino/dp/B00O2KDQBE?th=1)
 - SIM card -- [$45 Mint Mobile $15/month plan on Amazon](https://www.amazon.com/gp/aw/d/B0741FV7ZV/?_encoding=UTF8)
 - Microcontroller -- [nrf express itsy bitsy for $20 on Digikey](https://www.digikey.com/en/products/detail/adafruit-industries-llc/4481/11497502)
 - Keyboard -- [m5 keyboard for $8 on Digikey](https://www.digikey.com/en/products/detail/m5stack-technology-co-ltd/U035-B/16679766)
+- Large Screen -- [adafruit sharp display for $44 on Digikey](https://www.digikey.com/en/products/detail/adafruit-industries-llc/4694/13157994) 
 - Boost (already purchased)
 - Antenna (already purchased)
 - PCB (to design)
