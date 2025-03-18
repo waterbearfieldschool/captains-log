@@ -45,6 +45,18 @@ layout: layouts/post.njk
 
 Sat 08 Mar 2025 08:39:40 PM EST
 
+# phone repo
+
+This is where the phone code lives [https://gitlab.com/edgecollective/neighborhood-mesh](https://gitlab.com/edgecollective/neighborhood-mesh)
+
+Wed 19 Feb 2025 08:14:21 PM EST
+
+Testing power req's ....
+
+Page for audio + text module is [here](https://www.dfrobot.com/product-2801.html)
+
+And wiki [here](https://wiki.dfrobot.com/SKU_TEL0162_SIM7600G_H_CAT4_4G_Communication_Module)
+
 # Initial run -- text-only
 
 - Module -- [sim7600 text module for $73 on Amazon](https://www.amazon.com/SIM7600G-H-4G-Communication-Module-Positioning-Standard/dp/B0BTP93H8H/ref=asc_df_B0BTP93H8H)

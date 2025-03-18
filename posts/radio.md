@@ -84,18 +84,6 @@ RAK 4631 datasheet [here](https://docs.rakwireless.com/product-categories/wisblo
 
 still possible to diy a device -- bluetooth module for $13, radio module for $15, screen for $3, pcb + spare parts for $5 -- approx $36 in parts
 
-# phone repo
-
-This is where the phone code lives [https://gitlab.com/edgecollective/neighborhood-mesh](https://gitlab.com/edgecollective/neighborhood-mesh)
-
-Wed 19 Feb 2025 08:14:21 PM EST
-
-Testing power req's ....
-
-Page for audio + text module is [here](https://www.dfrobot.com/product-2801.html)
-
-And wiki [here](https://wiki.dfrobot.com/SKU_TEL0162_SIM7600G_H_CAT4_4G_Communication_Module)
-
 # meshtastic depth sensor
 
 Arduino tutorial for maxbotix sensor [here](https://www.makerguides.com/maxbotix-mb7389-arduino-tutorial/)
