@@ -58,9 +58,9 @@ Sat 08 Mar 2025 08:39:40 PM EST
 - PCB (to design)
 - Case (to design)
 
+![](/img/phone/sim7600_module.png)
 
-
-
+What are the specs on the BAT pin?
 
 
 

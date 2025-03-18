@@ -96,6 +96,14 @@ Page for audio + text module is [here](https://www.dfrobot.com/product-2801.html
 
 And wiki [here](https://wiki.dfrobot.com/SKU_TEL0162_SIM7600G_H_CAT4_4G_Communication_Module)
 
+# meshtastic depth sensor
+
+Arduino tutorial for maxbotix sensor [here](https://www.makerguides.com/maxbotix-mb7389-arduino-tutorial/)
+
+Maxbotix 7388 [landing page](https://maxbotix.com/products/mb7388) and [data sheet](/img/11500.pdf)
+
+
+
 
 
 
