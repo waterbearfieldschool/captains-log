@@ -90,8 +90,95 @@ Arduino tutorial for maxbotix sensor [here](https://www.makerguides.com/maxbotix
 
 Maxbotix 7388 [landing page](https://maxbotix.com/products/mb7388) and [data sheet](/img/11500.pdf)
 
+Example Arduino code for software serial [here](https://forum.arduino.cc/t/maxbotix-7066_serial-comunication_mega2560/682435/2)
+
+Rough code working for parsing:
+
+![](/img/radio/parsing.png)
+
+Good tutorial on additional uarts for Circuitpython [here](https://learn.adafruit.com/circuitpython-essentials/circuitpython-uart-serial)
+
+![](/img/radio/uart_pin_pairs.png)
+
+![](/img/radio/qt_py_m0_pinout.png)
+
+RX: D3
+TX: D2
+
+works on qt py 
+
+Using the Meshtastic cli [here](https://meshtastic.org/docs/software/python/cli/usage/)
+
+Meshtastic serial module docs [here](https://meshtastic.org/docs/configuration/module/serial/)
+
+![](/img/radio/heltec_v3_pinout.webp)
+
+A nice guide to setting up serial on Meshtastic [here](https://teelsys.com/meshtastic-serial/)
+
+specs on 7388 maxbotix (datasheet [here](http://localhost:8080/img/11500.pdf))
+
+![](/img/radio/7388_specs.png)
+
+> "The 1.5-meter sensors (MB7375 and MB7395) and 10-meter sensors (MB7363, MB7366, MB7368, MB7383, MB7386, and MB7388) use a scale factor of (Vcc/10240) per 1-mm. The distance is output with a 10-mm resolution. The analog voltage output is typically within ±10-mm of the serial output."
+
+Wed 19 Mar 2025 03:28:43 PM EDT
+
+RAK 19007 pinout [here](https://docs.rakwireless.com/product-categories/wisblock/rak19007/datasheet/)
+
+Looks like we can access RX1 and RX2 on the Wisblock module as per [this forum post](https://forum.rakwireless.com/t/wisblock-starter-kit-19007-rak4630-rx1-and-tx1-pin-number-in-arduino/10668/2)
 
 
+/*
+ * Serial interfaces
+ */
+// TXD1 RXD1 on Base Board
+#define PIN_SERIAL1_RX (15)
+#define PIN_SERIAL1_TX (16)
 
+// TXD0 RXD0 on Base Board
+#define PIN_SERIAL2_RX (19)
+#define PIN_SERIAL2_TX (20)
+
+# meshtastic command line setup 
+
+> (meshty) dwblair@xps13:~/Documents/meshty/venv2/bin$ ./meshtastic --ch-index 0 --sendtext 'test data!'
+
+![](/img/radio/wisblock_pinout.png)
+
+Note:  need to make sure that we've set the baud rate on the input
+
+## setting up the sensor meshtastic node
+
+- baud rate 115200
+- rxd 15 and rx 16 on the RAK 4631
+- serial.mode TEXTMSG
+- default channel to 'depth' or somesuch
+- serial.enabled 1
+
+possible uart pin pairs for itsybitsy m4:
+
+![](/img/radio/uart_pin_pairs_itsybitsy_m4.png)
+
+Setting up MQTT guide [here](https://meshtastic.org/docs/configuration/module/mqtt/)
+
+![](/img/radio/depth_data_online.png)
+
+![](/img/radio/water_level_demo.png)
+
+
+Wed 19 Mar 2025 08:27:15 PM EDT
+
+Updated firmware and script repo, today's snapshot
+
+[https://github.com/edgecollective/mesh-depth/tree/6beac499442d1c69f761b0be1974393b7c57c208](https://github.com/edgecollective/mesh-depth/tree/6beac499442d1c69f761b0be1974393b7c57c208)
+
+- double_uart_itbm4_mesh_send.py -- code that runs on itsy bitsy m4 which reads uart from maxbotix sensor, then sends via another uart to RAK meshtastic node in TEXTMSG mode
+- serial_gateway.py -- code for qt py m0 which gets data from a heltec and prints it to the serial port
+- serial_read_bayou_post_generic.py -- python script for terminal, reads data from serial port and posts to bayou
+
+Wed 19 Mar 2025 08:58:09 PM EDT
+
+
+![](/img/radio/montpelier_hubbard.png)
 
 
