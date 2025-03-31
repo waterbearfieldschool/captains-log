@@ -9,4 +9,4 @@ eleventyNavigation:
 
 # Meshtastic
 
-- [Setting up a Meshtastic Node](/guides/meshtastic)
+- [Setting up a RAK 4631-based Meshtastic Node](/guides/meshtastic)
