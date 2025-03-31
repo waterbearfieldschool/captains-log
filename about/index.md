@@ -4,7 +4,7 @@ title: About
 templateClass: tmpl-post
 eleventyNavigation:
   key: About
-  order: 1
+  order: 5
 ---
 
 Waterbear Field School! 
