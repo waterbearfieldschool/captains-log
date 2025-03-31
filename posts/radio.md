@@ -181,4 +181,61 @@ Wed 19 Mar 2025 08:58:09 PM EDT
 
 ![](/img/radio/montpelier_hubbard.png)
 
+Sat 22 Mar 2025 09:33:06 AM EDT
+
+
+RAK12500 WisBlock GPS module [https://docs.rakwireless.com/Product-Categories/WisBlock/RAK12500/Datasheet/](https://docs.rakwireless.com/Product-Categories/WisBlock/RAK12500/Datasheet/)
+
+RAK19007 datasheet [here](https://docs.rakwireless.com/Product-Categories/WisBlock/RAK19007/Datasheet/)
+
+Upshot:  if place GPS module on Slot C, use i2c only, no UART conflict
+
+can maybe also place on Slot A, which allows both uart and i2c?  but then potential conflict, as the uart is listening on RX1 and transmitting on TX1
+
+RX1 is the pin we're using to receive UART data and send on the RAK
+
+So: hope for i2c mode for GPS module
+
+Sun 23 Mar 2025 02:53:25 PM EDT
+
+
+Okay, going to just to the MVP -- not worry about different battery chemistries or microcontrollers, yet.  
+
+I've determined that we can use an itsy bitsy m4 and an itsy bitsy nrf5280 with the same custom uart pins.  Likely a rp2040 as well (I imagine the mux is v flexible on that chip).  That's enough to start.
+
+If not too complicated, will try to add the timer circuit, with option to have controlling micro + sensor sleep, or also entire circuit sleep.
+
+base it on the sweet-p ...
+
+[RAK19007 datasheet](https://shop.marcomweb.it/images/virtuemart/product/RAK19007%20Datasheet.pdf)
+
+![](/img/radio/rak19007_mechanical.png)
+
+Power consumption on RAK19007 + RAK4631 [here](https://forum.rakwireless.com/t/rak4631-rak19007-ads1115-power-consumption/12361/5)
+
+-- from this discussion, looks like we shouldn't currently mess with the rak power input -- just use regular 3.7 rated lipos.  meanwhile we can use a timer on the BAT pin from meshtastic to power the sensor and the micro separately.
+
+should prototype this circuit first, though
+
+
+
+discussion on how to power the rak4631 [here](https://forum.rakwireless.com/t/rak4631-without-baseboard/10177/19)
+
+
+![](/img/radio/water_mesh.png)
+
+Video explaning the timer: [https://photos.app.goo.gl/C4hNUPwVMvn81FZs8](https://photos.app.goo.gl/C4hNUPwVMvn81FZs8)
+
+![](/img/radio/heltec_feather_base.png)
+
+Wed 26 Mar 2025 07:42:07 PM EDT
+
+rak 19007 -- can use USB or solar input to charge battery -- nice!
+
+![](/img/radio/rak_19007_input_options.png)
+
+
+
+
+
 

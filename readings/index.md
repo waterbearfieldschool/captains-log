@@ -4,7 +4,7 @@ title: Readings
 templateClass: tmpl-post
 eleventyNavigation:
   key: Readings 
-  order: 1
+  order: 3
 ---
 
 <!--
