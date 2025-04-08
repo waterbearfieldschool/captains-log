@@ -234,8 +234,82 @@ rak 19007 -- can use USB or solar input to charge battery -- nice!
 
 ![](/img/radio/rak_19007_input_options.png)
 
+Sat 05 Apr 2025 09:07:42 AM EDT
 
+Seeed studio has some low-cost nordic and lora chips ...
 
+Lora chip avail (WIO-SX1262) for $5 on digikey [here](https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/114993390/25835823?gclsrc=aw.ds&&utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_Medium%20ROAS%20Categories&utm_term=&utm_content=&utm_id=go_cmp-20223376311_adg-_ad-__dev-c_ext-_prd-25835823_sig-Cj0KCQjwqcO_BhDaARIsACz62vNfDThNDcsb3GchfTfYWVYZFPQbMCCs0-PB9Blc6l7CuHdvaE6UV38aAs1jEALw_wcB&gad_source=1&gclid=Cj0KCQjwqcO_BhDaARIsACz62vNfDThNDcsb3GchfTfYWVYZFPQbMCCs0-PB9Blc6l7CuHdvaE6UV38aAs1jEALw_wcB&gclsrc=aw.ds)
+
+Here's the description at Seeed of the module: [link](https://www.seeedstudio.com/Wio-SX1262-Wireless-Module-p-5981.html)
+
+Here's a TRACO power DC-DC that outputs 3.3V and 1A with max 36V and min 4.7V input [link](https://www.digikey.com/en/products/detail/traco-power/TSR-1-2433/9383776)
+
+Looks like the nordic has built-in power converters, see forum [here](https://forums.adafruit.com/viewtopic.php?t=149285)
+
+So: what about a board that allows for different battery chemistries, so that the system can be a repeater in cold weather / take different batteries?
+
+Meshtastic nrf diy [here](https://adrelien.com/meshtastic-diy-how-to-build-your-own-meshtastic-node-nrf52840-lora-radio/)
+
+NRF52840 pro micro [here](https://www.amazon.com/AITRIP-Development-Bluetooth-Management-Module%EF%BC%8CNano/dp/B0DCZJKYL1/ref=asc_df_B0DCZJKYL1?mcid=6d520dc732973935be59a08863d25919&tag=hyprod-20&linkCode=df0&hvadid=726893313099&hvpos=&hvnetw=g&hvrand=575833733904072902&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9002061&hvtargid=pla-2391501835569&psc=1)
+
+Ah!  The proper term for it is the 'super mini' -- and Adafruit has Circuitpython for it! [here](https://circuitpython.org/board/supermini_nrf52840/)
+
+super mini pinout [here](https://holykeebs.com/products/supermini-nrf52840)
+
+it's a clone of the nice!nano v2 [here](https://nicekeyboards.com/docs/nice-nano/pinout-schematic/)
+
+meshtastic 'rak killer' [here](https://www.reddit.com/r/meshtastic/comments/1f48w9a/the_rak_killer_meshtastic_diy_how_to_build_your/)
+
+Sun 06 Apr 2025 10:17:05 PM EDT
+
+build your own meshtastic node [here](https://adrelien.com/meshtastic-diy-how-to-build-your-own-meshtastic-node-nrf52840-lora-radio/)
+
+![](/img/radio/nice_bootloader.png)
+
+waveshare module [here](https://www.amazon.com/Waveshare-Core1262-868M-Module-Support-Anti-Interference/dp/B09LV2W64R/ref=asc_df_B09LV2W64R?mcid=237f9ac3c2d8340b8e22a833b9f4bad8&tag=hyprod-20&linkCode=df0&hvadid=693310954762&hvpos=&hvnetw=g&hvrand=1644473740976195916&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9002061&hvtargid=pla-2211744334922&th=1)
+![](/img/radio/waveshare_sx1262.png)
+
+NOTE:  
+
+Busy <--> DIO0
+
+NSS <--> CS
+
+Mon 07 Apr 2025 05:47:34 PM EDT
+
+kicad footprint and symbol for nice! nano [here](https://github.com/bstiq/nice-nano-kicad)
+
+schematic for nice! nano board [here](https://nicekeyboards.com/docs/nice-nano/pinout-schematic/)  -- hopefully same as supermini 
+
+more docs for the nice! nano, explaining the pinout [here](https://nicekeyboards.com/docs/nice-nano/)
+
+bluetooth module itself via adafruit is $13 [here](https://www.adafruit.com/product/4078)
+
+or $8 via adafruit [here](https://www.sparkfun.com/nordic-nrf52840-ble-module-mdbt50q-1mv2.html?gad_source=4&gclid=Cj0KCQjw782_BhDjARIsABTv_JD-_A8b365Q-NyWo-z70TH1elR2sc6kaUUQSGBJwbLr_wVn2AKl6ocaAitXEALw_wcB)
+
+cold weather battery options [here](https://www.reddit.com/r/meshtastic/comments/1bdgt04/any_cold_weather_battery_options/)
+
+cold weather node forum [here](https://www.reddit.com/r/meshtastic/comments/1i0a1lg/how_big_a_battery_do_i_need_for_a_meshtastic_node/)
+
+another meshtastic solar thread [here](https://www.reddit.com/r/meshtastic/comments/1gqyovj/solarbattery_controller/)
+
+adafruit usb c plug breakout [here](https://www.adafruit.com/product/5978)
+
+5V 1A output min 7V in max 36V DC DC Traco Power on digikey [here](https://www.digikey.com/en/products/detail/traco-power/TSR-1-2450E/12171283?gclsrc=aw.ds&&utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_Low%20ROAS%20Categories&utm_term=&utm_content=&utm_id=go_cmp-20243063506_adg-_ad-__dev-c_ext-_prd-12171283_sig-Cj0KCQjw782_BhDjARIsABTv_JCGDi6U76zVR1xbmbXUHnCMqujL7Y9YssBkjvhjdyd8rvPfI3f8JgYaAqWFEALw_wcB&gad_source=1&gclid=Cj0KCQjw782_BhDjARIsABTv_JCGDi6U76zVR1xbmbXUHnCMqujL7Y9YssBkjvhjdyd8rvPfI3f8JgYaAqWFEALw_wcB&gclsrc=aw.ds)
+
+molex 10544 connector on digikey [here](https://www.digikey.com/en/products/detail/molex/1054440001/5843889)
+
+Mon 07 Apr 2025 08:17:59 PM EDT
+
+I installed platformio as per [this guide](https://docs.platformio.org/en/latest/core/installation/methods/installer-script.html)
+
+The platformio quickstart is [here](https://docs.platformio.org/en/latest/core/quickstart.html)
+
+Meshtastic guide to building the firmware is [here](https://meshtastic.org/docs/development/firmware/build/)
+
+how to connect the itsybitsy to the waveshare lora module:
+
+![](/img/radio/ib_waveshare.png)
 
 
 
