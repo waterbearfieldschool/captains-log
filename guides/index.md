@@ -2,9 +2,9 @@
 layout: layouts/post.njk
 title: Guides 
 templateClass: tmpl-post
-eleventyNavigation:
+<!--eleventyNavigation:
   key: Guides 
-  order: 3
+  order: 3-->
 ---
 
 # Meshtastic

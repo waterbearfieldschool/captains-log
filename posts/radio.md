@@ -311,5 +311,66 @@ how to connect the itsybitsy to the waveshare lora module:
 
 ![](/img/radio/ib_waveshare.png)
 
+Note that my schematic for connecting to the itsy bitsy came from lucciola_w
+
+Note that the firmware for the supermini seems to be in the meshtastic variant:  firmware/variants/diy/nrf52_promicro_diy_tcxo
+
+working repos on github.com/edgecollective
+
+meshtastic-custom-firmware
+
+super-mini-mesh
+
+Mon 07 Apr 2025 11:01:45 PM EDT
+
+![](/img/radio/sensor_bridge.jpg)
+
+![](/img/radio/mesh_sensor_battery_behavior.png)
+
+Wed 09 Apr 2025 09:21:29 PM EDT
+
+![](/img/radio/power_profile_supermini.png)
+
+Thu 10 Apr 2025 07:47:54 PM EDT
+
+JST connector orientation [here](https://www.amazon.com/EEMB-2000mAh-Battery-Rechargeable-Connector/dp/B08214DJLJ/ref=asc_df_B08214DJLJ?mcid=2499bb537f6030c1a060cd1662809b74&tag=hyprod-20&linkCode=df0&hvadid=693308325748&hvpos=&hvnetw=g&hvrand=15956326518424862066&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9002061&hvtargid=pla-952213741191&th=1)
+
+
+Mon 14 Apr 2025 06:22:54 PM EDT
+
+
+![](/img/radio/turkey_tufts.png)
+
+![](/img/radio/turkey_waterbear.png)
+
+![](/img/radio/lonetree_tufts.png)
+
+![](/img/radio/lonetree_detail.png)
+
+![](/img/radio/oaks_parking_lot.png)
+
+radio setttings for various modes in meshtastic [here](https://meshtastic.org/docs/overview/radio-settings/)
+
+![](/img/radio/longfast_deets.png)
+
+adafruit rfm9x library details [here](https://docs.circuitpython.org/projects/rfm9x/en/2.2.0/api.html)
+
+library located on github [here](https://github.com/adafruit/Adafruit_CircuitPython_RFM9x)
+
+nice! nano pinout [here](https://nicekeyboards.com/docs/nice-nano/pinout-schematic/)
+
+![](/img/radio/nicenano_pinmap.png)
+
+
+<img src="/img/radio/supermini_lora.png" height="300" width="100">
+
+sx126x driver for python [here](https://github.com/ehong-tl/micropySX126X)
+
+have it working!
+
+todo:  need to generalize the constructor with respect to pins for other boards
+
+link is [here](https://github.com/waterbearfieldschool/super-mini-mesh/tree/main/firmware)
+
 
 

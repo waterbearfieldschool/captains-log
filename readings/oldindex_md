@@ -2,9 +2,9 @@
 layout: layouts/post.njk
 title: Readings 
 templateClass: tmpl-post
-<!--eleventyNavigation:
+eleventyNavigation:
   key: Readings 
-  order: 3-->
+  order: 3
 ---
 
 <!--
