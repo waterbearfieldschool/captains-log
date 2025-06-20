@@ -372,5 +372,10 @@ todo:  need to generalize the constructor with respect to pins for other boards
 
 link is [here](https://github.com/waterbearfieldschool/super-mini-mesh/tree/main/firmware)
 
+Sat 24 May 2025 12:06:23 PM EDT
 
+
+note:  the design of the Thistle matches the diy promicro txco variant in meshtastic -- can just use latest firmware from there
+
+might want to add explicity i2c pullups on next thistle so can use display 
 
